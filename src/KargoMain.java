@@ -14,6 +14,7 @@ public class KargoMain {
 		
 		Korgo k1=new Korgo();
 		System.out.println("->"+k1.KorgoPaketiHazirla(a, b, c));
+                System.out.println("deneme");
 
 	}
 
